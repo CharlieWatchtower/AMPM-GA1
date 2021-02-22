@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 #Ignore .exe files
-.exe
+*.exe
